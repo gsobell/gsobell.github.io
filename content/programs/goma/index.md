@@ -6,7 +6,7 @@ categories:
 - work in progress
 ---
 
-`goma` is a stochastic Go engine written in python
+a stochastic Go engine written in python
 
 This project is a work-in-progress. The API is complete, but none of the logic has been implemented yet.
 
