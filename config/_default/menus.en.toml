@@ -39,6 +39,12 @@
  pageRef = "/categories/baduk/"
  weight = 20
 
+[[main]]
+ name = "LaTeX"
+ parent = "Software"
+ pageRef = "/programs/latex"
+ weight = 20
+
 
 [[main]]
  name = "About"
