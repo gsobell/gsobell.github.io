@@ -16,10 +16,10 @@ In order to save time, I made a handful of templates:
 Generate a cover for your document, inspired by the familiar standard GNU Documentation covers.
 
 ### [CS Template](https://github.com/gsobell/texplates/tree/home/cs-article)
-Includes packages useful full for CS (e.g. `algorithm2e`)
+Includes packages useful for CS (e.g. `algorithm2e`)
 
 ### [Math Template](https://github.com/gsobell/texplates/tree/home/math-article)
-Includes packages useful full for math (e.g. `mathtools`, `tikz`, `tikz-cd`)
+Includes packages useful for math (e.g. `mathtools`, `tikz`, `tikz-cd`)
 
 
 ### [Bi-Directional](https://github.com/gsobell/texplates/tree/home/bidi-article)
