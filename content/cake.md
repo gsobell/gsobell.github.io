@@ -1,5 +1,8 @@
 ---
 title: Crazy Cake
+summary: Who's crazy?
+categories:
+- recipes
 ---
 ### Ingredients:
 - 180g All-purpose flour (1½ Cups)
@@ -12,7 +15,7 @@ title: Crazy Cake
 - Optional: 7ml Vanilla extract (1½ tsp)
 
 ### Instructions:
-Preheat oven to 175°C (350°F). Line 8" pan with parchment paper or oil.
+Preheat oven to 175°C (350°F). Line 8" or loaf pan with parchment paper or oil.
 1. Mix dry ingredients.
 2. Measure out wet ingredients.
 3. Pour wet ingredients into dry, and mix until no clumps present.
