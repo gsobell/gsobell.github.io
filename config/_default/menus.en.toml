@@ -19,7 +19,11 @@
  name = "Software"
  pageRef = "/programs/"
  weight = 20
-#
+
+[[main]]
+name = "Articles"
+pageRef = "/categories/articles"
+weight = 30
 # [[main]]
 #  name = "LaTeX"
 #  parent = "Software"
@@ -92,5 +96,5 @@ weight = 60
 
 [[footer]]
   name = "Categories"
-  pageRef = "categories"
+  pageRef = "/categories"
   weight = 20
